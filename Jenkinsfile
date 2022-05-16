@@ -10,4 +10,3 @@ node{
         sh 'cp target/*.war /home/ubuntu/opt/tomcat/webapps'
     }    
 }
-hhh
